@@ -1,0 +1,4 @@
+KDiskSleepPlasmoid
+==================
+
+KDE DiskSleep Plasmoid
